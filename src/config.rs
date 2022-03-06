@@ -1,0 +1,3 @@
+/// Some Constants config
+const OWNER_ADDRESS: &str = "0x42447d5f59d5bf78a82c34663474922bdf278162";
+const OWNER_PRIVATE_KEY: &str = "4d6f9e640ef9c982f1612e23966c4be3bc7b7105fb77239ca4718a881737ed42";
